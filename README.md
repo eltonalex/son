@@ -1,2 +1,2 @@
 # son 
-## Aplica‡äes dos Cursos da SON
+## Aplicações dos Cursos da SON
